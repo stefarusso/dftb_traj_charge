@@ -1,5 +1,5 @@
 import numpy as np
-
+#TEST
 #we need a dictionary with the number of valence electrons for every atom in the trajectory 
 valence={
 "H":1,
